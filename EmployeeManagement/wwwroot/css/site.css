@@ -1,0 +1,14 @@
+﻿.btn{
+    width:75px;
+}
+
+.customcard {
+    width: 75%;
+    margin:0 auto;
+}
+
+.thumbNail {
+    height: 200px;
+    width: auto;
+    margin: 0 auto;
+}
